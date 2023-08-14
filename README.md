@@ -8,6 +8,8 @@
 - TensorFlow, Keras
 - PostgreSQL
 
+"Open to new challenges and opportunities, I'm eager to contribute and grow in the field of Data Science."
+
 
 
 
