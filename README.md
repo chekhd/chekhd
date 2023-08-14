@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Dmitry Chekh 👋
+"Graduate of Yandex.Praktikum 🚀 | Data Science Specialist 📊  "
+
+#### Data Science / Data Analyst tools:  
+- Python
+- Pandas, Numpy, Matplotlib, Seaborn
+- Scikit-learn, LightGBM, CatBoost
+- TensorFlow, Keras
+- PostgreSQL
+
+
+
 
 <!--
 **chekhd/chekhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
